@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+ 
+  
+    <head>
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous">
+
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<style>
+   * {
+      box-sizing: border-box;
+   }
+   body {
+      font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+   }
+   h1 {
+      text-align: center;
+   }
+   .container {
+      width: 100%;
+      background-color: rgb(231, 231, 231);
+      border-radius: 20px;
+   }
+   .cpp, .java, .python, .c {
+      text-align: center;
+      font-weight: bolder;
+      padding-top: 3px;
+      padding-bottom: 3px;
+      color: white;
+      border-radius: 20px;
+   }
+   .cpp {
+      width: 40%;
+      background-color: #4caf50;
+   }
+   .java {
+      width: 80%;
+      background-color: #2196f3;
+   }
+   .python {
+      width: 100%;
+      background-color: #f44336;
+   }
+   .c {
+      width: 60%;
+      background-color: #808080;
+   }
+   </style>
+
+ 
+
+ 
+
+<table class="table">
+
+
+  <thead>
+
+    <tr>
+
+      <th scope="col">Fuentes Mario</th>
+          
+      </th>
+
+      <th scope="col"><button type="button" class="btn btn-primary">login</button></th>
+
+    </tr>
+
+  </thead>
+  
+</table>
+
+
+<div>
+  <img src="output-onlinepngtools(1).png" style="float:left;">
+<div><p style=color:blueviolet;>Fuentes Mario</p></div>
+<p>221 437 2341</p>  
+<button type="button" class="btn btn-link">Gmail</button>
+
+<p>acerca de: estudiante de secundario recientemente graduado buscando trabajo</p>
+
+</d>
+<div class="alert alert-success" role="alert">
+Educacion:titulo secundario con orientacion en economia,actualmente estudiando programacion
+</div>
+
+
+
+
+<h1>Habilidades</h1>
+<h3>Ingles avanzado</h3>
+<div class="container">
+<div class="python">100%</div>
+</div>
+
+<h3>java basico</h3>
+<div class="container">
+<div class="cpp">40%</div>
+</div>
+
+
+  
+
+  
+
+    
+
+
+  
+
+
+
+
+
+
+
+
+
+    
+    
+
+</body>
+
+ 
+ 
+</html>
+
+
+
